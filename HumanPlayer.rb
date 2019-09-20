@@ -1,0 +1,3 @@
+class InteractivePlayer <Players 
+    
+end
